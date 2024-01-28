@@ -21,13 +21,13 @@
       </a>
 </div>     
 
-<p margin-top:30>
+<p margin-top:30 align="center">
   <a href="https://www.codewars.com/users/ShdwKick">
     <img src="https://www.codewars.com/users/ShdwKick/badges/large" alt="codewars">
   </a>
 </p>
 
-<p margin-top:30>
+<p margin-top:30 align="center">
   <img src="https://komarev.com/ghpvc/?username=ShdwKick" alt="profile views">
 </p>
 
