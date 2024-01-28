@@ -11,7 +11,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="UE" width="180" height="180"/> 
       </a>
       <a href="https://isocpp.org/">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="++" alt="C++" width="180" height="180"/> 
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="180" height="180"/> 
       </a>
       <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="180" height="180"/>
