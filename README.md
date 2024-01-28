@@ -26,15 +26,10 @@
     <img src="https://www.codewars.com/users/ShdwKick/badges/large" alt="codewars">
   </a>
 </p>
-<p margin-top:30 align="center">
-  <a href="https://www.codewars.com/users/ShdwKick">
-    <img src="https://github.r2v.ch/codewars?user=USERNAME&top_languages=true" alt="codewars">
-  </a>
-</p>
 
 <p margin-top:50 align="center">
   <img src="https://komarev.com/ghpvc/?username=ShdwKick" alt="profile views">
-</p>
+</p>  
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShdwKick&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShdwKick&theme=solarized_dark)  
