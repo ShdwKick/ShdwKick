@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShdwKick
 - 👀 I’m interested in Unreal Engine
-- 🌱 I’m currently learning Unreal Engine 4,5,C++
-- 💞️ I’m looking to collaborate on Unreal Engine
+- 🌱 I’m currently learning Unreal Engine 5,C++,C#,Avaloni UI
+- 💞️ I’m looking to collaborate on Unreal Engine,Avalonia UI,WPF
 - 📫 How to reach me 4d5.gamedev@gmail.com
 - :airplane: Telegramm https://t.me/ShdwKick
 
