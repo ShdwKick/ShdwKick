@@ -26,7 +26,7 @@
   </a>
 </div>
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects - Outdated
 
 - [GoTogether](https://github.com/ShdwKick/GoTogether) - This is a server-side application written in C#. It leverages the HotChocolate library to implement a GraphQL API and uses Entity Framework Core.
 - [RoleGameServer](https://github.com/ShdwKick/RoleGameServer) - Another server-side application written in C#. It leverages the HotChocolate library to implement a GraphQL API and uses Entity Framework Core.
