@@ -1,65 +1,104 @@
-<h1 align="center">👋 Hi, I’m @ShdwKick</h1>
+<!-- Header -->
 <p align="center">
-  👀 I’m interested in <strong>Unreal Engine</strong> <br>
-  🌱 I’m currently learning <strong>Unreal Engine 5</strong>, <strong>C++</strong>, <strong>C#</strong>, <strong>Avalonia UI</strong> <br>
-  💞️ I’m looking to collaborate on <strong>Unreal Engine</strong>, <strong>Avalonia UI</strong>, <strong>WPF</strong> <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff6b35&height=200&section=header&text=ShdwKick&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Game%20%26%20Backend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="header"/>
 </p>
 
-## 📧 Contact Me
-
-- 📫 Email: [4d5.gamedev@gmail.com](mailto:4d5.gamedev@gmail.com)
-- ✈️ Telegram: [@ShdwKick](https://t.me/ShdwKick)
-
-### :hammer_and_wrench: Languages and Tools:
-<div align="center">
-  <a href="https://www.unrealengine.com/en-US" title="Unreal Engine">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="UE" width="100" height="100"/> 
+<p align="center">
+  <a href="https://github.com/ShdwKick">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=FF6B35&center=true&vCenter=true&width=640&lines=Unreal+Engine+5+%2B+C%2B%2B+gameplay;C%23+%2F+.NET+backends+with+GraphQL;Node.js+services+for+burninghouse.ru;Always+building+something+new" alt="typing"/>
   </a>
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/> 
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" title="C#">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="100" height="100"/>
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="PostgreSQL" width="100" height="100"/>
-  </a>
-</div>
+</p>
 
-## 🌟 Featured Projects - Outdated
+<p align="center">
+  <a href="mailto:4d5.gamedev@gmail.com"><img src="https://img.shields.io/badge/Email-ff6b35?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://t.me/ShdwKick"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://www.linkedin.com/in/ShdwKick"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.codewars.com/users/ShdwKick"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ShdwKick&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="profile views"/>
+</p>
 
-- [GoTogether](https://github.com/ShdwKick/GoTogether) - This is a server-side application written in C#. It leverages the HotChocolate library to implement a GraphQL API and uses Entity Framework Core.
-- [RoleGameServer](https://github.com/ShdwKick/RoleGameServer) - Another server-side application written in C#. It leverages the HotChocolate library to implement a GraphQL API and uses Entity Framework Core.
+---
 
-## 🌐 Social Media & Other Platforms
+### 👋 About me
 
-- [LinkedIn](https://www.linkedin.com/in/ShdwKick)
+- 🎮 Building games on **Unreal Engine 5** with **C++**
+- 🧩 Writing backends in **C# / .NET**: GraphQL (HotChocolate), EF Core, PostgreSQL
+- 🌐 Running a set of small web services on **[burninghouse.ru](https://burninghouse.ru)** (Node.js)
+- ⚔️ Working on an **RTS** game
+- 🌱 Currently diving deeper into **UE5 multiplayer** and **C++**
+- 💞️ Open to collaborate on **Unreal Engine** projects
 
-### 🚀 My Roadmap:
-<div align="center">
+### ⚡ Now
+
+```text
+🎯 RTS ............ core gameplay loop: units, selection, orders
+🏰 TD_CoopProj .... co-op tower defense on UE5
+🌐 burninghouse ... PDD trainer & multiplayer puzzles
+```
+
+### ⚔️ RTS (in development)
+
+<!-- TODO: replace with a real gameplay GIF/screenshot, e.g. drag it into an issue and paste the link here -->
+<p align="center">
+  <img src="https://placehold.co/800x400/0f0c29/ff6b35?text=RTS+gameplay+coming+soon" alt="RTS gameplay" width="720"/>
+</p>
+
+A real-time strategy game built on **Unreal Engine 5** and **C++**.
+
+- 🪖 TODO: setting / factions
+- 🧠 TODO: key mechanic that makes it different
+- 🚧 Stage: early prototype
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,cpp,cs,dotnet,graphql,postgres,sqlite,js,nodejs,docker,githubactions,rider,git&perline=7" alt="tech stack"/>
+</p>
+
+### 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| ⚔️ **RTS** *(in development)* | Real-time strategy game | ![UE5](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🏰 [**TD_CoopProj**](https://github.com/ShdwKick/TD_CoopProj) | Co-op game project on Unreal Engine 5 | ![UE5](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| 🚗 [**PDD**](https://github.com/ShdwKick/PDD) | Driving-licence exam trainer, play together with friends | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| 🧩 [**Puzzle**](https://github.com/ShdwKick/Puzzle) | Online jigsaw puzzles, solo or with friends | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShdwKick&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" alt="streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShdwKick&theme=tokyonight" alt="stats" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShdwKick&theme=tokyonight" alt="most commit language" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShdwKick&theme=tokyonight&utcOffset=3" alt="productive time"/>
+</p>
+
+<!-- Snake: generated by .github/workflows/snake.yml into the "output" branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShdwKick/ShdwKick/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/ShdwKick/ShdwKick/output/github-snake.svg" alt="contribution snake"/>
+  </picture>
+</p>
+
+<details>
+<summary>🗺️ <b>Roadmap & Codewars</b></summary>
+<br/>
+<p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6704e14ffb4be684db66eef9?variant=dark&roadmaps=backend%2Cgraphql%2Cgame-developer" alt="roadmap.sh"/></a>
-</div>
-
-### 💻 CodeWars Profile:
-<p align="center">
-  <a href="https://www.codewars.com/users/ShdwKick">
-    <img src="https://www.codewars.com/users/ShdwKick/badges/large" alt="codewars">
-  </a>
 </p>
-
-### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShdwKick&style=flat-square" alt="profile views">
+  <a href="https://www.codewars.com/users/ShdwKick"><img src="https://www.codewars.com/users/ShdwKick/badges/large" alt="codewars"/></a>
 </p>
+</details>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShdwKick&theme=solarized_dark" alt="most commit language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShdwKick&theme=solarized_dark" alt="repos per language"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShdwKick&theme=solarized_dark" alt="stats"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShdwKick&theme=solarized_dark" alt="productive time"/>
-</div>
-
-<!---
-ShdwKick/ShdwKick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
+</p>
